@@ -12,6 +12,7 @@ Projeto de banco de dados SQL Server para controle de pedidos.
 
 ## 🛠 Tecnologias
 - SQL Server
+- BRModelo
 
 ## ▶️ Como executar
 Execute os scripts na ordem:
@@ -25,9 +26,25 @@ Execute os scripts na ordem:
 7. 07_triggers.sql  
 8. 08_tests.sql  
 
-## 📊 Estrutura
-- tb_cliente
-- tb_item
-- tb_pedido
-- tb_pedido_item
-- tb_ordem_producao
+---
+
+## 📊 Modelagem do Banco
+
+### 🔗 Acessar imagem do modelo
+[👉 Clique aqui para ver o modelo](docs/diagramapng)
+
+
+---
+
+## 📁 Estrutura do Projeto
+
+- tb_cliente  
+- tb_item  
+- tb_pedido  
+- tb_pedido_item  
+- tb_ordem_producao  
+
+---
+
+## 👨‍💻 Autor
+Projeto desenvolvido para estudos de banco de dados.
