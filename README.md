@@ -46,5 +46,4 @@ Execute os scripts na ordem:
 
 ---
 
-## 👨‍💻 Autor
-Projeto desenvolvido para estudos de banco de dados.
+
