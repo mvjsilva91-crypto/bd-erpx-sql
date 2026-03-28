@@ -31,7 +31,7 @@ Execute os scripts na ordem:
 ## 📊 Modelagem do Banco
 
 ### 🔗 Acessar imagem do modelo
-[👉 Clique aqui para ver o modelo](docs/diagramapng)
+[👉 Clique aqui para ver o modelo](docs/diagrama.png)
 
 
 ---
